@@ -1,0 +1,28 @@
+{
+  "name": "example-voice",
+  "role": "Technical writer",
+  "tone": {
+    "funny_to_serious": "serious",
+    "formal_to_casual": "casual-leaning",
+    "respectful_to_irreverent": "respectful",
+    "enthusiastic_to_matter_of_fact": "matter-of-fact"
+  },
+  "voice_rules": [
+    "Lead every section with the conclusion, not the setup.",
+    "Short sentences dominate. Average sentence length ≤18 words.",
+    "Prefer concrete commands, configs, and outcomes over abstractions."
+  ],
+  "banned_openers": [
+    "In today's world",
+    "It's worth noting",
+    "Let's dive in",
+    "In conclusion",
+    "Needless to say"
+  ],
+  "readability": {
+    "flesch_ease_target": "50-65",
+    "avg_sentence_words": 18,
+    "max_sentence_words": 25
+  },
+  "summary_box_label": "Key Takeaways"
+}

@@ -1,0 +1,12 @@
+.DS_Store
+*.pyc
+__pycache__/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.writer/
+*.local.json
+node_modules/
+.claude/settings.local.json

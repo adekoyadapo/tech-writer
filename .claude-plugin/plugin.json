@@ -1,0 +1,19 @@
+{
+  "name": "technical-writer",
+  "displayName": "Technical Writer",
+  "version": "1.0.0",
+  "description": "Universal Claude Code writing plugin: samples-first style gate, blog and technical forms, model-routed agents, Opus 5.5 figures, and Elastic docs research.",
+  "author": {
+    "name": "Ade Adekoya"
+  },
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "blog",
+    "technical-writing",
+    "documentation",
+    "elastic",
+    "seo",
+    "claude-code"
+  ]
+}
